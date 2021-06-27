@@ -10,7 +10,7 @@ Technology Used: HTML/HTML5, CSS/CSS3, Bootstrap 3, JavaScript, jQuery.
 
 Duration: Sep, 2019.
 
-URL: http://www.eccablr.org/
+URL: https://sumandeyashi.github.io/ECCA_Website/
 
 
 # Description:
